@@ -3,10 +3,7 @@ dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
 
-scikit-image==0.18.3
-scikit-learn==1.2.2
-scikit-learn-intelex==2021.20210714.120553
-scikit-surprise==1.1.1
+scikit-learn
 
 pandas
 gunicorn
