@@ -1,6 +1,4 @@
 dash==2.14.0
 
-ast
-
 pandas
 gunicorn
